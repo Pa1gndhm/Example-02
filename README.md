@@ -10,6 +10,6 @@
 4. My Sql
 5. Pyhton
 6. Tableau
-7. 7. Power Bi
+7. Power Bi
 
 ___
